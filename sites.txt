@@ -1,0 +1,3 @@
+http://dokuwiki.mgul.ac.ru/dokuwiki/doku.php?id=doc:1806:643.mgul.18061-01_34_01
+http://dbrobo.mgul.ac.ru/
+https://github.com/Al-Sher/Golang-check-site
